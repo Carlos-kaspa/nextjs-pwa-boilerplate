@@ -1,4 +1,4 @@
-# Boilerplate NextJS = PWA
+# Boilerplate NextJS - PWA
 
 [Default Next Config walkthrough](https://github.com/Carlos-kaspa/boilerplate-nextjs-kaspa/blob/master/README.md)
 
@@ -17,15 +17,15 @@ Add Icons of fixed sizes to both your public directory and describe them in your
 
 ## Running the PWA
 
-Run `npm run build`
-Check that `sw.js` and `workbox-*.js` have been added your public files
-Run `npm start` and check the right corner of your address bar, there should be a download button.
-Congrats, you are running your PWA app.
+-   Run `npm run build`
+-   Check that `sw.js` and `workbox-*.js` have been added your public files
+-   Run `npm start` and check the right corner of your address bar, there should be a download button.
+    There you go! You are now running your PWA app.
 
 ## Future Versions
 
-Add service workers for notifications.
-Add mobile usage examples, like camera, geolocation and such.
+-   Add service workers for notifications.
+-   Add mobile usage examples, like camera, geolocation and such.
 
 > Last Updated - January 29 2023
 
