@@ -1,0 +1,17 @@
+{
+    "theme_color": "#79e0a1",
+    "background_color": "#474441",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Next PWA Boilerplate by Kaspa",
+    "short_name": "pwa-bp-kaspa",
+    "description": "Boilerplate for PWA projects using NextJs platform",
+    "icons": [
+        {
+            "src": "/android-icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

@@ -14,6 +14,18 @@ export default function Document() {
         <Html>
             <Head>
                 <link
+                    rel="manifest"
+                    href="/manifest.json"
+                />
+                <link
+                    rel="android-icon"
+                    href="/android-icon.png"
+                ></link>
+                <meta
+                    name="theme-color"
+                    content="#fff"
+                />
+                <link
                     rel="icon"
                     href="/favicon.ico"
                 />
